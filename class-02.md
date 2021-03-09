@@ -1,3 +1,5 @@
+## From the Duckett HTML book:
+
 ### Chapter 2: “Text” (pp.40-61)
 
 This was a pretty basic chapter that highlights the various html tags for text. Would be helpful to have them all written down on a quick reference sheet
@@ -8,7 +10,7 @@ Again - basic chapter on CSS basics. Syntax is: Selector {Delaration} and proper
 
 Be mindful of cascade rules and inheritance.
 
-From the Duckett JS book:
+## From the Duckett JS book:
 
 *Still waiting on this book in the mail*
 
