@@ -1,4 +1,5 @@
 # Code 201 Reading Notes
+### This site is a catalog of notes from my reading assignments.
 
 ## Reading Assignments
 
