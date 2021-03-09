@@ -3,7 +3,7 @@
 
 # Reading Assignments
 
-* ### Reading Assignment 1
+* ### [Reading Assignment 1](class-02.md)
 
 * ### Reading Assignment 2
 
