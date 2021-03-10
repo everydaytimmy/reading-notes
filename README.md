@@ -7,7 +7,7 @@
 
 * ### [Reading Assignment 2](class-02.md)
 
-* ### [Reading Assignment 3](RA 3.md)
+* ### [Reading Assignment 3](RA-3.md)
 
 * ### Reading Assignment 4
 
