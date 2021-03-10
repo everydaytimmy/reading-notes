@@ -22,23 +22,27 @@ I prefer switch statements for longer conditionals. Loops include 'for' 'while' 
 For execute a number of times, while executes while true, do - while executes until false. 
 
 Examples from W3:
- >var i;
-> for (i = 0; i < cars.length; i++) {
- > text += cars[i] + "<br>";
- > }
  
+ ```javascript
+ var i;
+ for (i = 0; i < cars.length; i++) {
+ text += cars[i] + "<br>";
+ }
+ ```
  
- >while (i < 10) {
- > text += "The number is " + i;
- > i++;
-  >}
+ ```javascript
+ while (i < 10) {
+ text += "The number is " + i;
+ i++;
+ }
+ let result = '';
+ let i = 0;
+ ```
 
->let result = '';
->let i = 0;
-
-
- >do {
-  >i = i + 1;
-  >result = result + i;
-  > } 
-  > while (i < 5);
+ ```javascript
+ do {
+  i = i + 1;
+  result = result + i;
+  } 
+  while (i < 5);
+  ```
