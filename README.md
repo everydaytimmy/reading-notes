@@ -5,7 +5,7 @@
 
 * ### Reading Assignment 1
 
-* ### [Reading Assignment 2](class-02.md)
+* ### [Reading Assignment 2](RA-2.md)
 
 * ### [Reading Assignment 3](RA-3.md)
 
