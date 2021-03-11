@@ -35,6 +35,6 @@ Function are just like recipies. You assign them a name and tell them what they 
   return number + number;
 }``
 
-### Pair Programming
+#### Pair Programming
 
 Already familair with pair programming and it's benefits. Good practice. Was used extensivly at companies I have worked at in the past and be dev friends. 
