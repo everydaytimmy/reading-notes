@@ -12,7 +12,7 @@ BIG chapter. This is what lets the pages have moe of a visual pop and arrange lo
 Block Level Elements - start on a new line
 Inline Elements - flow in between surrounding text
 
-All about the <div>s. Need to start adding to the index.html
+All about the `<div>`s. Need to start adding to the index.html
 Outside of normal flow use Z-index to keep the right things on top.
   
 Fixed position seems to do the same basically as Z-index...
