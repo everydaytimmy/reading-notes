@@ -9,7 +9,7 @@
 
 * ### [Reading Assignment 3](RA-3.md)
 
-* ### Reading Assignment 4
+* ### [Reading Assignment 4](RA-4.md)
 
 * ### Reading Assignment 5
 
