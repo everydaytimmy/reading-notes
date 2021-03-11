@@ -29,7 +29,7 @@ Am going to spend some more time inspecting elements of websites that I like to 
 ## From the Duckett JS book:
 
 #### Functions
-Function are just like recipies. You assign them a name and tell them what they should do. 
+Function are just like recipes. You assign them a name and tell them what they should do. 
 
 ``function add(number) {
   return number + number;
@@ -37,4 +37,4 @@ Function are just like recipies. You assign them a name and tell them what they 
 
 #### Pair Programming
 
-Already familair with pair programming and it's benefits. Good practice. Was used extensivly at companies I have worked at in the past and be dev friends. 
+Already familiar with pair programming and it's benefits. Good practice. Was used extensivly at companies I have worked at in the past and be dev friends. 
