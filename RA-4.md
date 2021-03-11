@@ -21,6 +21,7 @@ Floating elements good for block quotes.
 
 Additional reading on fixed vs liquid layout - 
 https://www.lifewire.com/fixed-width-vs-liquid-layouts-3468947#:~:text=Fixed%2DWidth%20Layouts%3A%20These%20are,wide%20the%20viewer's%20browser%20is
+
 https://www.smashingmagazine.com/2009/06/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/
 
 Am going to spend some more time inspecting elements of websites that I like to get a sense of how they tackle the CSS styling.
