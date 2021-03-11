@@ -1,12 +1,12 @@
 ## From the Duckett HTML book:
 
-### Chapter 4: “Links” (pp.62-73)
+#### Chapter 4: “Links” (pp.62-73)
 
 <a href= ...> </a> tag to set up links.
 Use relative URL for internal links 
 For linking on the same page use Ids and #'Id' in the <a>
   
-###Chapter 15: “Layout” 
+#### Chapter 15: “Layout” 
 BIG chapter. This is what lets the pages have moe of a visual pop and arrange lots of information on a page.
 
 Block Level Elements - start on a new line
@@ -27,12 +27,13 @@ Am going to spend some more time inspecting elements of websites that I like to 
 
 ## From the Duckett JS book:
 
+#### Functions
 Function are just like recipies. You assign them a name and tell them what they should do. 
 
 ``function add(number) {
   return number + number;
 }``
 
-##Pair Programming
+### Pair Programming
 
 Already familair with pair programming and it's benefits. Good practice. Was used extensivly at companies I have worked at in the past and be dev friends. 
