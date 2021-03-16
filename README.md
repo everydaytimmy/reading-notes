@@ -13,9 +13,9 @@
 
 * ### [Reading Assignment 5](RA-5.md)
 
-* ### Reading Assignment 6
+* ### [Reading Assignment 6](RA-6.md)
 
-* ### Reading Assignment 7
+* ### [Reading Assignment 7](RA-7.md)
 
 * ### Reading Assignment 8
 
