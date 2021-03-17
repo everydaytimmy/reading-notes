@@ -4,7 +4,7 @@
 
 Simple chapter on lists. Nothing too complicated. Memorization. I have not had exposure to definition lists. Added to my toolbox
 
-###Chapter 13: “Boxes” (pp.300-329)
+### Chapter 13: “Boxes” (pp.300-329)
 
 A lot of good information in this chapter. Color and text size are good to know but managing the elemnt boxes are where it's at from a visualization perspective. 
 There are so many different options and I am guessing that it will fit Pareto as far as frequency of use. Many of the stylings I do not see very often on modern webpages.
