@@ -40,7 +40,9 @@ From the Duckett JS book:
 There are A LOT of different event types.
 
 UI EVENTS
+
 KEYBOARD EVENTS
+
 MOUSE EVENTS
 
 Events trigger a function or a script.
