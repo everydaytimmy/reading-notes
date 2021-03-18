@@ -54,7 +54,12 @@ Event Handeling:
 
 DOM level 2 event handelers are the way to go.
 
-Event Bubbling vs Event Capturing
+`element.addEventListener('event', functionName [,Boolean]);`
+
+Will need to use anonymous functions in order to pass arguments.
+
+Event Bubbling vs Event Capturing:
+
 https://javascript.info/bubbling-and-capturing
 
 
