@@ -5,32 +5,32 @@
 
 * ### Reading Assignment 1
 
-* ### [Reading Assignment 2](RA-2.md)
+* ### [Reading Assignment 2](RA-02.md)
 
-* ### [Reading Assignment 3](RA-3.md)
+* ### [Reading Assignment 3](RA-03.md)
 
-* ### [Reading Assignment 4](RA-4.md)
+* ### [Reading Assignment 4](RA-04.md)
 
-* ### [Reading Assignment 5](RA-5.md)
+* ### [Reading Assignment 5](RA-05.md)
 
-* ### [Reading Assignment 6](RA-6.md)
+* ### [Reading Assignment 6](RA-06.md)
 
-* ### [Reading Assignment 7](RA-7.md)
+* ### [Reading Assignment 7](RA-07.md)
 
-* ### Reading Assignment 8
+* ### [Reading Assignment 8](RA-08.md)
 
-* ### Reading Assignment 9
+* ### [Reading Assignment 9](RA-09.md)
 
-* ### Reading Assignment 10
+* ### [Reading Assignment 10](RA-10.md)
 
-* ### Reading Assignment 11
+* ### [Reading Assignment 11](RA-11.md)
 
-* ### Reading Assignment 12
+* ### [Reading Assignment 12](RA-12.md)
 
-* ### Reading Assignment 13
+* ### [Reading Assignment 13](RA-13.md)
 
-* ### Reading Assignment 14
+* ### [Reading Assignment 14](RA-14.md)
 
-* ### Reading Assignment 15
+* ### [Reading Assignment 15]
 
 
