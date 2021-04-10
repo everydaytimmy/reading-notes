@@ -1,7 +1,11 @@
-# Code 201 Reading Notes
-### This site is a catalog of notes from my reading assignments.
+# Reading Notes
 
-# Reading Assignments
+#### This site is a catalog of notes from my reading assignments made during my 'learning to code' journey.
+
+
+
+## Code 201 - Foundations of Software Development
+#### Reading Assignments
 
 * ### Reading Assignment 1
 
@@ -31,6 +35,8 @@
 
 * ### [Reading Assignment 14](RA-14.md)
 
-* ### [Reading Assignment 15]
+
+## Code 301 - Intermediate Software Development
+
 
 
