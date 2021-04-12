@@ -1,1 +1,21 @@
+## What is React?
 
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
+
+To “remember” things, components use `state`.
+
+Importantly, arrow functions don't have their own this value so they're handy when you want to preserve the this value from an outer method definition.
+
+JSX, is a syntax extension to JavaScript.
+
+React elements are immutable. Once you create an element, you can’t change its children or attributes. An element is like a single frame in a movie: it represents the UI at a certain point in time.
+
+Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
+
+#### Note
+
+In JavaScript classes, you need to always call super when defining the constructor of a subclass. All React component classes that have a constructor should start with a super(props) call.
+
+^ but why?
+
+To collect data from multiple children, or to have two child components communicate with each other, you need to declare the shared state in their parent component instead. The parent component can pass the state back down to the children by using props; this keeps the child components in sync with each other and with the parent component.
