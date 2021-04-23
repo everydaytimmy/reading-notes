@@ -13,3 +13,11 @@ https://codefellows.github.io/code-301-guide-react/curriculum/class-03/challenge
 #### array.sort()
 
 https://codefellows.github.io/code-301-guide-react/curriculum/class-04/challenges/
+
+
+#### Reduce method
+https://codefellows.github.io/code-301-guide-react/curriculum/class-05/challenges/
+
+
+#### Object iteration
+https://codefellows.github.io/code-301-guide-react/curriculum/class-09/challenges/
