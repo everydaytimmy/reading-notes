@@ -2,7 +2,7 @@
 
 https://codefellows.github.io/code-301-guide-react/curriculum/class-02/challenges/
 
-### Array.forEach
+#### Array.forEach
 
 https://codefellows.github.io/code-301-guide-react/curriculum/class-01/challenges/
 
