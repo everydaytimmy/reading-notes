@@ -21,3 +21,7 @@ https://codefellows.github.io/code-301-guide-react/curriculum/class-05/challenge
 
 #### Object iteration
 https://codefellows.github.io/code-301-guide-react/curriculum/class-09/challenges/
+
+
+#### String Manipulation
+https://codefellows.github.io/code-301-guide-react/curriculum/class-13/challenges/
