@@ -7,9 +7,9 @@
 ## Code 201 - Foundations of Software Development
 #### Reading Assignments
 
-* ### Reading Assignment 1
+* ### 201 1
 
-* ### [Reading Assignment 2](RA-02.md)
+* ### [201 - 2](RA-02.md)
 
 * ### [Reading Assignment 3](RA-03.md)
 
