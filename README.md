@@ -37,7 +37,7 @@
 
 
 ## Code 301 - Intermediate Software Development
-* ### [Reading Assignment 2](301 RA 01.md)
+* ### [Reading Assignment 1](301 RA 01.md)
 
 * ### [Reading Assignment 2](301 RA 02.md)
 
