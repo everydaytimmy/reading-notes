@@ -35,6 +35,8 @@ print(car2.description())
 ```
 ### Thinking Recursively
 
+https://realpython.com/python-thinking-recursively/
+
 A recursive function is a function defined in terms of itself via self-referential expressions.
 
 This means that the function will continue to call itself and repeat its behavior until some condition is met to return a result. All recursive functions share a common structure made up of two parts: base case and recursive case.
