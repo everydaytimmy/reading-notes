@@ -44,3 +44,14 @@ Some examples:
 **takewhile** - takes items from an iterable while a predicate function remains true;
 **chain** - combines several iterables into one long one;
 **accumulate** - returns a running total of values in an iterable.
+
+More magic methods for common operators:
+__sub__ for -
+__mul__ for *
+__truediv__ for /
+__floordiv__ for //
+__mod__ for %
+__pow__ for **
+__and__ for &
+__xor__ for ^
+__or__ for |
