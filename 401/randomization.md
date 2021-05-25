@@ -1,5 +1,7 @@
 ## Random Module
 
+https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python
+
 ```
 import random
 print random.randint(0, 5)
