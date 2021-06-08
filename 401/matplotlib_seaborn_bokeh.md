@@ -76,3 +76,7 @@ YOUTUBE LINK - https://www.youtube.com/watch?v=o4TB6LTPDaY
 ## Seaborn
 
 https://seaborn.pydata.org/tutorial.html
+
+Valuable link on plot types:
+
+https://medium.com/@mukul.mschauhan/data-visualisation-using-seaborn-464b7c0e5122
