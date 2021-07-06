@@ -4,7 +4,7 @@
 
 
 
-## Code 201 - Foundations of Software Development
+## Foundations of Software Development
 #### Reading Assignments
 
 
@@ -35,7 +35,7 @@
 * ### [201 - 14](201/RA-14.md)
 
 
-## Code 301 - Intermediate Software Development
+## Intermediate Software Development
 * ### [301 - 1](301/301_RA_01.md)
 
 * ### [301 - 2](301/301_RA_02.md)
