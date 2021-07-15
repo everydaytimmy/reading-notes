@@ -1,8 +1,11 @@
 ### Open Source
 
 https://www.firsttimersonly.com/
+
 https://github.com/open-source
+
 https://github.com/search?q=label%3Agood-first-issue+archived%3Afalse
+
 
 https://github.com/firstcontributions/first-contributions is a hands-on tutorial that walks you through contributions workflow on GitHub. When you complete the tutorial, you have made a contribution to the same project.
 
@@ -19,4 +22,3 @@ goodfirstissue.dev curates easy pickings from popular open-source projects, and 
 https://www.codetriage.com/ helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox every day.
 
 
-Read blog posts and guides on how to contribute to an open source project, then pick one!
